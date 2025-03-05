@@ -1,16 +1,17 @@
-**Retail Sales Analysis (Excel + MySQL)**
+**Retail Sales Analysis (Excel + MySQL)**  
+
 📌 Overview
 
 This project analyzes 500+ retail sales transactions to uncover key business insights. The goal was to use Excel for data cleaning and visualization and MySQL for querying and deeper analysis. The analysis focuses on identifying top-selling products, regional performance, customer behavior, and monthly sales trends to help businesses make data-driven decisions.
 
 📊 Key Insights & Findings
 
-✔ Top-Selling Product: "**Laptop**" generated the highest revenue.
-✔ Best-Performing Region: "**North Region**" contributed the most sales.
-✔ Most Valuable Customers: Identified top 5 highest-spending customers.
-✔ Monthly Sales Trends: Sales peaked in the "**Januray Month**", revealing seasonal trends.
-✔ Most Profitable Category: "**Electronics**" generated the highest profit.
-✔ Average Order Value (AOV): Customers spent an average of "**$1253.900000**" per transaction.
+✔ Top-Selling Product: "**Laptop**" generated the highest revenue.  
+✔ Best-Performing Region: "**North Region**" contributed the most sales.  
+✔ Most Valuable Customers: Identified top 5 highest-spending customers.  
+✔ Monthly Sales Trends: Sales peaked in the "**Januray Month**", revealing seasonal trends.  
+✔ Most Profitable Category: "**Electronics**" generated the highest profit.  
+✔ Average Order Value (AOV): Customers spent an average of "**$1253.900000**" per transaction.  
 
 🛠 Tools & Skills Used
 
