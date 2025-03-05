@@ -1,8 +1,8 @@
-## Creating a Database
+## Creating a Retail Database
 CREATE DATABASE retail_db;
 USE retail_db;
 
-## Creating a Table
+## Creating a Retail_Sales Table
 CREATE TABLE retail_sales (
     order_id INT PRIMARY KEY,
     date DATE,
