@@ -17,7 +17,7 @@ This project analyzes 500+ retail sales transactions to uncover key business ins
 
 * Excel: Data Cleaning, Pivot Tables, Charts
 
-* SQL (MySQL): Querying, Aggregations, Joins
+* SQL (MySQL): Querying, Aggregations
 
 * Business Intelligence: Sales Trend Analysis, Customer Segmentation
 
